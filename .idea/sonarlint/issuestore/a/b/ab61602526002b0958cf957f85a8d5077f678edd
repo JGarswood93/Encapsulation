@@ -1,0 +1,9 @@
+
+ƒ"squid:ClassVariableVisibilityCheck"RMake weapon a static final constant or non-public and provide accessors if needed.(¤¤ú‰ùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯İâ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(áäè‚
+ƒ"squid:ClassVariableVisibilityCheck"RMake health a static final constant or non-public and provide accessors if needed.(ÁüÖÅùÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"TMake fullName a static final constant or non-public and provide accessors if needed.(ùßŞ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯İâ
